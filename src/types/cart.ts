@@ -1,4 +1,3 @@
-// src/types/cart.ts
 import { CartItem } from './navigation';
 
 export interface CartContextType {

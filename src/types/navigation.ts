@@ -1,4 +1,3 @@
-// src/types/navigation.ts
 export type RootStackParamList = {
   ProductList: undefined;
   ProductDetail: { productId: number };

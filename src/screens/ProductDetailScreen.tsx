@@ -1,4 +1,3 @@
-// src/screens/ProductDetailScreen.tsx
 import React, { useEffect, useState } from 'react';
 import { View, StyleSheet, ScrollView, Image } from 'react-native';
 import { Text, Button, ActivityIndicator, Snackbar, Card, IconButton } from 'react-native-paper';

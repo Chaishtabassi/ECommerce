@@ -1,4 +1,3 @@
-// src/components/CartItem.tsx
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
 import { Card, Text, IconButton, Button } from 'react-native-paper';

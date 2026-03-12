@@ -1,4 +1,3 @@
-// src/screens/CartScreen.tsx
 import React, { useState } from 'react';
 import { View, StyleSheet, FlatList } from 'react-native';
 import { Text, Button, Card, Divider, Snackbar, Dialog, Portal } from 'react-native-paper';
@@ -14,7 +13,6 @@ const CartScreen = () => {
 
   useFocusEffect(
     React.useCallback(() => {
-      // Refresh cart when screen comes into focus
       return () => {};
     }, [])
   );

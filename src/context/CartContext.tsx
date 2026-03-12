@@ -1,4 +1,3 @@
-// src/context/CartContext.tsx
 import React, { createContext, useState, useContext, ReactNode } from 'react';
 import { CartItem } from '../types/navigation';
 import { CartContextType } from '../types/cart';

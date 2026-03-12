@@ -1,4 +1,3 @@
-// src/components/ProductCard.tsx
 import React from 'react';
 import { View, StyleSheet, TouchableOpacity, Image } from 'react-native';
 import { Card, Text, Chip, useTheme } from 'react-native-paper';
@@ -89,7 +88,6 @@ const styles = StyleSheet.create({
   },
   category: {
     alignSelf: 'flex-start',
-    // height: 22,
     marginBottom: 6,
     backgroundColor: '#f2f2f2',
   },
